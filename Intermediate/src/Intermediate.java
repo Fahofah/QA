@@ -51,8 +51,8 @@ public class Intermediate {
 
 		g1.printVList();
 		g1.calCost();
-		g1.removeVehicle(1);
-		g1.printVList();
+		//g1.removeVehicle(1);
+		//g1.printVList();
 		
 		//Paint Wizard (int capacity, int price, int coverage)
 		Paint c = new Paint("CheapoMax",20,19.99,10);

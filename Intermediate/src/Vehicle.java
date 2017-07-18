@@ -4,6 +4,7 @@ public abstract class Vehicle {
 	String make;
 	int year, reg;
 	boolean isWorking;
+	int fixprice;
 	
 
 	public Vehicle(int reg, String make, int year, boolean isWorking) {
